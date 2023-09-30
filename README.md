@@ -1,4 +1,3 @@
-# 2023-ABO-Fine-grained-Semantic-Segmentation-Competition
 ## Introduction
 
 This repository released the baseline code for the [ICCV 2023 ABO Fine-grained Semantic Segmentation Competition](https://eval.ai/web/challenges/challenge-page/2027/overview)
@@ -44,3 +43,4 @@ dev for development dataset, test for test dataset
 ```
 python combine_jsons.py
 ```
+
